@@ -1,0 +1,16 @@
+.flexbox{
+    align-items: center;
+    display: flex;
+    height: auto;
+    justify-content: space-between;
+    left: 0px;
+    max-width: 133rem;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    width: 100%;
+    z-index: 99999;
+    margin: 0px auto;
+    padding: 2.7rem 2rem;
+    background-color: rgb(141, 236, 203);
+}
